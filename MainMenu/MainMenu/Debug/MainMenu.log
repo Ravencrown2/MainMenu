@@ -1,0 +1,13 @@
+﻿  sfml.cpp
+C:\Users\ioann\source\repos\MainMenu\MainMenu\sfml.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ioann\source\repos\MainMenu\MainMenu\sfml.cpp(10,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\ioann\source\repos\MainMenu\MainMenu\sfml.cpp(10,30): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  MainMenu.vcxproj -> C:\Users\ioann\source\repos\MainMenu\Debug\MainMenu.exe
